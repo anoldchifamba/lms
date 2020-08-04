@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Hello World</title>
+    <title>Atacademy</title>
 
     <!-- Required meta tags -->
     <meta charset="utf-8">
@@ -24,4 +24,5 @@
 
     <!-- Styles -->
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="log/favicon.ico">
 </head>

@@ -8,11 +8,11 @@
                 <div class="row">
                     <div class="col-12 col-lg-6 d-none d-md-flex flex-wrap justify-content-center justify-content-lg-start mb-3 mb-lg-0">
                         <div class="header-bar-email d-flex align-items-center">
-                            <i class="fa fa-envelope"></i><a href="#">tuanna.design@gmail.com</a>
+                            <i class="fa fa-envelope"></i><a href="mailto:admissions@atacademy.co.zw">admissions@atacademy.co.zw</a>
                         </div><!-- .header-bar-email -->
 
                         <div class="header-bar-text lg-flex align-items-center">
-                            <p><i class="fa fa-phone"></i>001-1234-88888 </p>
+                            <p><i class="fa fa-phone"></i>0242779156 </p>
                         </div><!-- .header-bar-text -->
                     </div><!-- .col -->
 
@@ -811,7 +811,7 @@
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="foot-about">
-                        <a class="foot-logo" href="#"><img src="images/foot-logo.png" alt=""></a>
+                        <a class="foot-logo" href="#"><img src="log/logo.png" alt=""></a>
 
                         <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia dese mollit anim id est laborum. </p>
 
@@ -826,9 +826,9 @@
                         <h2>Contact Us</h2>
 
                         <ul>
-                            <li>Email: info.deertcreative@gmail.com</li>
-                            <li>Phone: (+88) 111 555 666</li>
-                            <li>Address: 40 Baria Sreet 133/2 NewYork City, US</li>
+                            <li>Email: info.admission@atacademy.com</li>
+                            <li>Phone: 0242779156</li>
+                            <li>Address	:	202 Seke rd Block 2 Nedlew Complex Graniteside Harare</li>
                         </ul>
                     </div><!-- .foot-contact -->
                 </div><!-- .col -->
@@ -858,7 +858,7 @@
                         <h2>Follow Us</h2>
 
                         <ul class="follow-us flex flex-wrap align-items-center">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a target='_blank' href="https://www.facebook.com/atacademyzw"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                             <li><a href="#"><i class="fa fa-instagram"></i></a></li>
                             <li><a href="#"><i class="fa fa-twitter"></i></a></li>
