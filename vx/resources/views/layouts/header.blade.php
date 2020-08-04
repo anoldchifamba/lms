@@ -24,5 +24,4 @@
 
     <!-- Styles -->
     <link rel="stylesheet" href="style.css">
-    <link rel="icon" type="image/png" sizes="32x32" href="log/favicon.ico">
 </head>
