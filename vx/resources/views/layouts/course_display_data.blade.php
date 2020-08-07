@@ -1,89 +1,246 @@
+<div class="col-12 col-md-6 col-lg-4 px-25">
+    <div class="course-content">
+        <figure class="course-thumbnail">
+            <a href="#"><img src="images/1.jpg" alt=""></a>
+        </figure><!-- .course-thumbnail -->
 
-<footer class="site-footer">
-    <div class="footer-widgets">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-md-6 col-lg-3">
-                    <div class="foot-about">
-                        <a class="foot-logo" href="#"><img src="log/logo.png" alt=""></a>
+        <div class="course-content-wrap">
+            <header class="entry-header">
+                <h2 class="entry-title"><a href="#">The Complete Android Developer Course</a></h2>
 
-                        <p>Our mission is to diversify the tech industry through accessible education and apprenticeship, unlocking the door to opportunity and empowering people to achieve their dreams. </p>
+                <div class="entry-meta flex align-items-center">
+                    <div class="course-author"><a href="#">Ms. Lara Croft </a></div>
 
-                        <p class="footer-copyright"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This site is created by <a href="atacademy.co.zw" target="_blank">Atacademy</a>
-                            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-                    </div><!-- .foot-about -->
-                </div><!-- .col -->
+                    <div class="course-date">July 21, 2018</div>
+                </div><!-- .course-date -->
+            </header><!-- .entry-header -->
 
-                <div class="col-12 col-md-6 col-lg-3 mt-5 mt-md-0">
-                    <div class="foot-contact">
-                        <h2>Contact Us</h2>
+            <footer class="entry-footer flex justify-content-between align-items-center">
+                <div class="course-cost">
+                    $45 <span class="price-drop">$68</span>
+                </div><!-- .course-cost -->
 
-                        <ul>
-                            <li>Email: info.admission@atacademy.com</li>
-                            <li>Phone: 0242779156</li>
-                            <li>Address	:	202 Seke rd Block 2 Nedlew Complex Graniteside Harare</li>
-                        </ul>
-                    </div><!-- .foot-contact -->
-                </div><!-- .col -->
+                <div class="course-ratings flex justify-content-end align-items-center">
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star-o"></span>
 
-                <div class="col-12 col-md-6 col-lg-3 mt-5 mt-lg-0">
-                    <div class="quick-links flex flex-wrap">
-                        <h2 class="w-100">Quick Links</h2>
+                    <span class="course-ratings-count">(4 votes)</span>
+                </div><!-- .course-ratings -->
+            </footer><!-- .entry-footer -->
+        </div><!-- .course-content-wrap -->
+    </div><!-- .course-content -->
+</div><!-- .col -->
 
-                        <ul class="w-50">
-                            <li><a href="#">About </a></li>
-                            <li><a href="#">Terms of Use </a></li>
-                            <li><a href="#">Privacy Policy </a></li>
-                            <li><a href="#">Contact Us</a></li>
-                        </ul>
 
-                        <ul class="w-50">
-                            <li><a href="#">Documentation</a></li>
-                            <li><a href="#">Forums</a></li>
-                            <li><a href="#">Language Packs</a></li>
-                            <li><a href="#">Release Status</a></li>
-                        </ul>
-                    </div><!-- .quick-links -->
-                </div><!-- .col -->
 
-                <div class="col-12 col-md-6 col-lg-3 mt-5 mt-lg-0">
-                    <div class="follow-us">
-                        <h2>Follow Us</h2>
 
-                        <ul class="follow-us flex flex-wrap align-items-center">
-                            <li><a target='_blank' href="https://www.facebook.com/atacademyzw"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        </ul>
-                    </div><!-- .quick-links -->
-                </div><!-- .col -->
-            </div><!-- .row -->
-        </div><!-- .container -->
-    </div><!-- .footer-widgets -->
 
-    <div class="footer-bar">
-        <div class="container">
-            <div class="row flex-wrap justify-content-center justify-content-lg-between align-items-center">
-                <div class="col-12 col-lg-6">
-                    <div class="download-apps flex flex-wrap justify-content-center justify-content-lg-start align-items-center">
-                        <a href="#"><img src="images/app-store.png" alt=""></a>
-                        <a href="#"><img src="images/play-store.png" alt=""></a>
-                    </div><!-- .download-apps -->
 
-                </div>
 
-                <div class="col-12 col-lg-6 mt-4 mt-lg-0">
-                    <div class="footer-bar-nav">
-                        <ul class="flex flex-wrap justify-content-center justify-content-lg-end align-items-center">
-                            <li><a href="#">DPA</a></li>
-                            <li><a href="#">Terms of Use</a></li>
-                            <li><a href="#">Privacy Policy</a></li>
-                        </ul>
-                    </div><!-- .footer-bar-nav -->
-                </div><!-- .col-12 -->
-            </div><!-- .row -->
-        </div><!-- .container -->
-    </div><!-- .footer-bar -->
-</footer><!-- .site-footer -->
+
+<div class="col-12 col-md-6 col-lg-4 px-25">
+    <div class="course-content">
+        <figure class="course-thumbnail">
+            <a href="#"><img src="images/2.jpg" alt=""></a>
+        </figure><!-- .course-thumbnail -->
+
+        <div class="course-content-wrap">
+            <header class="entry-header">
+                <h2 class="entry-title"><a href="#">The Ultimate Drawing Course Beginner to Advanced</a></h2>
+
+                <div class="entry-meta flex align-items-center">
+                    <div class="course-author"><a href="#">Michelle Golden</a></div>
+
+                    <div class="course-date">Mar 14, 2018</div>
+                </div><!-- .course-date -->
+            </header><!-- .entry-header -->
+
+            <footer class="entry-footer flex justify-content-between align-items-center">
+                <div class="course-cost">
+                    <span class="free-cost">Free</span>
+                </div><!-- .price-drop -->
+
+                <div class="course-ratings flex justify-content-end align-items-center">
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star-o"></span>
+
+                    <span class="course-ratings-count">(4 votes)</span>
+                </div><!-- .course-ratings -->
+            </footer><!-- .entry-footer -->
+        </div><!-- .course-content-wrap -->
+    </div><!-- .course-content -->
+</div><!-- .col -->
+
+<div class="col-12 col-md-6 col-lg-4 px-25">
+    <div class="course-content">
+        <figure class="course-thumbnail">
+            <a href="#"><img src="images/3.jpg" alt=""></a>
+        </figure><!-- .course-thumbnail -->
+
+        <div class="course-content-wrap">
+            <header class="entry-header">
+                <h2 class="entry-title"><a href="#">The Complete Digital Marketing Course</a></h2>
+
+                <div class="entry-meta flex align-items-center">
+                    <div class="course-author"><a href="#">Ms. Lucius</a></div>
+
+                    <div class="course-date">Dec 18, 2018</div>
+                </div><!-- .course-date -->
+            </header><!-- .entry-header -->
+
+            <footer class="entry-footer flex justify-content-between align-items-center">
+                <div class="course-cost">
+                    $55 <span class="price-drop">$78</span>
+                </div><!-- .course-cost -->
+
+                <div class="course-ratings flex justify-content-end align-items-center">
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star-o"></span>
+
+                    <span class="course-ratings-count">(4 votes)</span>
+                </div><!-- .course-ratings -->
+            </footer><!-- .entry-footer -->
+        </div><!-- .course-content-wrap -->
+    </div><!-- .course-content -->
+</div><!-- .col -->
+
+
+
+
+
+
+
+<div class="col-12 col-md-6 col-lg-4 px-25">
+    <div class="course-content">
+        <figure class="course-thumbnail">
+            <a href="#"><img src="images/4.jpg" alt=""></a>
+        </figure><!-- .course-thumbnail -->
+
+        <div class="course-content-wrap">
+            <header class="entry-header">
+                <h2 class="entry-title"><a href="#">The Unreal Engine Developer Course</a></h2>
+
+                <div class="entry-meta flex align-items-center">
+                    <div class="course-author"><a href="#">Mr. John Wick</a></div>
+
+                    <div class="course-date">Otc 17, 2018</div>
+                </div><!-- .course-date -->
+            </header><!-- .entry-header -->
+
+            <footer class="entry-footer flex justify-content-between align-items-center">
+                <div class="course-cost">
+                    <span class="free-cost">Free</span>
+                </div><!-- .course-cost -->
+
+                <div class="course-ratings flex justify-content-end align-items-center">
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star-o"></span>
+
+                    <span class="course-ratings-count">(4 votes)</span>
+                </div><!-- .course-ratings -->
+            </footer><!-- .entry-footer -->
+        </div><!-- .course-content-wrap -->
+    </div><!-- .course-content -->
+</div><!-- .col -->
+
+
+
+
+
+
+
+
+
+<div class="col-12 col-md-6 col-lg-4 px-25">
+    <div class="course-content">
+        <figure class="course-thumbnail">
+            <a href="#"><img src="images/5.jpg" alt=""></a>
+        </figure><!-- .course-thumbnail -->
+
+        <div class="course-content-wrap">
+            <header class="entry-header">
+                <h2 class="entry-title"><a href="#">Progressive Web Apps (PWA) - The Complete Guide</a></h2>
+
+                <div class="entry-meta flex align-items-center">
+                    <div class="course-author"><a href="#">Mr. Tom Redder</a></div>
+
+                    <div class="course-date">Sep 14, 2018</div>
+                </div><!-- .course-date -->
+            </header><!-- .entry-header -->
+
+            <footer class="entry-footer flex justify-content-between align-items-center">
+                <div class="course-cost">
+                    $38 <span class="price-drop">$48</span>
+                </div><!-- .course-cost -->
+
+                <div class="course-ratings flex justify-content-end align-items-center">
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star-o"></span>
+
+                    <span class="course-ratings-count">(4 votes)</span>
+                </div><!-- .course-ratings -->
+            </footer><!-- .entry-footer -->
+        </div><!-- .course-content-wrap -->
+    </div><!-- .course-content -->
+</div><!-- .col -->
+
+
+
+
+
+
+<div class="col-12 col-md-6 col-lg-4 px-25">
+    <div class="course-content">
+        <figure class="course-thumbnail">
+            <a href="#"><img src="images/6.jpg" alt=""></a>
+        </figure><!-- .course-thumbnail -->
+
+        <div class="course-content-wrap">
+            <header class="entry-header">
+                <h2 class="entry-title"><a href="#">Cryptocurrency Investment Course 2018</a></h2>
+
+                <div class="entry-meta flex align-items-center">
+                    <div class="course-author"><a href="#">Russell Stephens</a></div>
+
+                    <div class="course-date">Nov 06, 2018</div>
+                </div><!-- .course-date -->
+            </header><!-- .entry-header -->
+
+            <footer class="entry-footer flex justify-content-between align-items-center">
+                <div class="course-cost">
+                    <span class="free-cost">Free</span>
+                </div><!-- .course-cost -->
+
+                <div class="course-ratings flex justify-content-end align-items-center">
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star checked"></span>
+                    <span class="fa fa-star-o"></span>
+
+                    <span class="course-ratings-count">(4 votes)</span>
+                </div><!-- .course-ratings -->
+            </footer><!-- .entry-footer -->
+        </div><!-- .course-content-wrap -->
+    </div><!-- .course-content -->
+</div><!-- .col -->
+
+
+
+
+
