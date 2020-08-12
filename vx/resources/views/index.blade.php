@@ -20,6 +20,7 @@
 
                     <footer class="entry-footer read-more">
                         <a href="#">read more</a>
+
                     </footer><!-- .entry-footer -->
                 </div><!-- .hero-content-wrap -->
             </div><!-- .col -->

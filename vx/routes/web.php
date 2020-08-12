@@ -32,3 +32,7 @@ Route::get('contact', function () {
     return view('contact');
 });
 Route::post('/contact','Controller@contact');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');

@@ -1,6 +1,5 @@
 @extends('layouts.main');
 
-<body class="blog-page">
 <body class="courses-page">
 @include('layouts.header_menu');<!-- .include header menu bar -->
 <div class="page-header-overlay">

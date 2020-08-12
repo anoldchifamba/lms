@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="foot-about">
-                        <a class="foot-logo" href="#"><img src="log/logo.png" alt=""></a>
+                        <a class="foot-logo" href="#"><img src="log/logo.png" alt="" HEIGHT="30px" width="170px"></a>
 
                         <p  align="justify">Our mission is to diversify the tech industry through accessible education and apprenticeship, unlocking the door to opportunity and empowering people to achieve their dreams. </p>
 
@@ -38,8 +38,8 @@
 
                         <ul class="w-50">
 
-                            <li><a target="_blank" href="https://attelecoms.co.zw/">At telecoms</a></li>
-                            <li><a target="_blank" href="https://atpower.co.zw/">At power</a></li>
+                            <li><a target="_blank" href="https://attelecoms.co.zw/">attelecoms</a></li>
+                            <li><a target="_blank" href="https://atpower.co.zw/">atpower</a></li>
                             <li><a href="#">Documentation</a></li>
                             <li><a href="#">Forums</a></li>
                         </ul>
@@ -68,7 +68,7 @@
                 <div class="col-12 col-lg-6">
                     <div class="download-apps flex flex-wrap justify-content-center justify-content-lg-start align-items-center">
                         <a href="#"> <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                                 All rights reserved | Site created by <a href="atacademy.co.zw" target="_blank">At academy</a>
+                                 All rights reserved | Site created by <a href="index" >atacademy</a>
                                 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></a>
                     </div><!-- .download-apps -->
 

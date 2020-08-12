@@ -23,10 +23,21 @@
                             </form>
                         </div><!-- .header-bar-search -->
 
+
                         <div class="header-bar-menu">
                             <ul class="flex justify-content-center align-items-center py-2 pt-md-0">
-                                <li><a href="#">Register</a></li>
-                                <li><a href="#">Login</a></li>
+                                @if (Route::has('login'))
+
+                                        @auth
+                                            <a href="{{ url('/home') }}">Home</a>
+                                        @else
+
+                                <li><a href="{{ route('login') }}">Login</a></li>
+                                            @if (Route::has('register'))
+                                                <li> <a href="{{ route('register') }}">Register</a></li>
+                                @endif
+                                @endauth
+                                    @endif
                             </ul>
                         </div><!-- .header-bar-menu -->
                     </div><!-- .col -->

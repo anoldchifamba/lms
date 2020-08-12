@@ -102,6 +102,7 @@
       <path value="$PROJECT_DIR$/vx/vendor/nesbot/carbon" />
       <path value="$PROJECT_DIR$/vx/vendor/fzaninotto/faker" />
       <path value="$PROJECT_DIR$/vx/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vx/vendor/laravel/ui" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
