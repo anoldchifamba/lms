@@ -9,20 +9,20 @@
     <script src='https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.js'></script>
     <link href='https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.css' rel='stylesheet' />
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href=" {{ asset('css/bootstrap.min.css') }}">
 
     <!-- FontAwesome CSS -->
-    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="{{ asset('css/font-awesome.min.css') }}">
 
     <!-- ElegantFonts CSS -->
-    <link rel="stylesheet" href="css/elegant-fonts.css">
+    <link rel="stylesheet" href="{{ asset('css/elegant-fonts.css') }}">
 
     <!-- themify-icons CSS -->
-    <link rel="stylesheet" href="css/themify-icons.css">
+    <link rel="stylesheet" href="{{ asset('css/themify-icons.css') }}">
 
     <!-- Swiper CSS -->
-    <link rel="stylesheet" href="css/swiper.min.css">
+    <link rel="stylesheet" href="{{ asset('swiper.min.css') }}">
 
     <!-- Styles -->
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="{{ asset('style.css') }}">
 </head>

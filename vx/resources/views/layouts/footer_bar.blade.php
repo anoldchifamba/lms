@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-12 col-md-6 col-lg-3">
                     <div class="foot-about">
-                        <a class="foot-logo" href="#"><img src="log/logo.png" alt="" HEIGHT="30px" width="170px"></a>
+                        <a class="foot-logo" href="{{ url('index') }}"><img src="{{ asset('log/logo.png') }}" alt="" HEIGHT="30px" width="170px"></a>
 
                         <p  align="justify">Our mission is to diversify the tech industry through accessible education and apprenticeship, unlocking the door to opportunity and empowering people to achieve their dreams. </p>
 
@@ -30,10 +30,10 @@
                         <h2 class="w-100">Quick Links</h2>
 
                         <ul class="w-50">
-                            <li><a href="index">Home</a></li>
-                            <li><a href="about">About </a></li>
-                            <li><a href="courses">Courses </a></li>
-                            <li><a href="contact">Contact Us</a></li>
+                            <li><a href="{{ url('index') }}">Home</a></li>
+                            <li><a href="{{ url('about') }}">About </a></li>
+                            <li><a href="{{ url('courses') }}">Courses </a></li>
+                            <li><a href="{{ url('contacts') }}">Contact Us</a></li>
                         </ul>
 
                         <ul class="w-50">

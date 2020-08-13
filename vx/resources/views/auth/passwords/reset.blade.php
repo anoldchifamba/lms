@@ -1,7 +1,35 @@
-@extends('layouts.app')
+@extends('layouts.main')
 
-@section('content')
+<body blog-page>
+
+@include('layouts.header_menu')<!-- .include header menu bar -->
+<div class="page-header-overlay">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <header class="entry-header">
+                    <div style="text-align: center; color: white;"> <h4>Reset Password</h4></div>
+                </header><!-- .entry-header -->
+            </div><!-- .col -->
+        </div><!-- .row -->
+    </div><!-- .container -->
+</div><!-- .page-header-overlay -->
+</div><!-- .page-header -->
+
 <div class="container">
+    <div class="row">
+        <div class="col-12">
+            <div class="breadcrumbs">
+                <ul class="flex flex-wrap align-items-center p-0 m-0">
+                    <li><a href="/index"><i class="fa fa-home"></i> Home</a></li>
+                    <li>Reset Password</li>
+                </ul>
+            </div><!-- .breadcrumbs -->
+        </div><!-- .col -->
+    </div><!-- .row -->
+
+
+    <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
@@ -62,4 +90,13 @@
         </div>
     </div>
 </div>
-@endsection
+
+</div>
+@include('layouts.client_log'); <!-- include the footer bar -->
+
+@include('layouts.footer_bar'); <!-- include the footer bar -->
+
+
+
+</body>
+</html>

@@ -33,6 +33,6 @@ Route::get('contact', function () {
 });
 Route::post('/contact','Controller@contact');
 
-Auth::routes();
+Auth::routes(['verify'=>true]);
 
 Route::get('/home', 'HomeController@index')->name('home');
